@@ -87,3 +87,7 @@ This profile was last updated on **[Date]**.
 2. **Activity Graph**: Add a contribution graph like [GitHub Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) to display your open-source contributions visually.
 3. **Interactive Stats**: Incorporate interactive stats and badges to make your profile more engaging.
 4. **Use GIFs**: GIFs (like the ones used here) make your profile dynamic and fun, adding personality.
+
+## Save my GitHub from this venomous snake pleaaaseeee... HELP MEEE
+
+![snake gif](https://github.com/LuffyOnGit/LuffyOnGit/blob/output/github-contribution-grid-snake.gif)
