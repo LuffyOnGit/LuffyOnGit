@@ -7,7 +7,7 @@ I specialize in building scalable backend systems and enjoy working on microserv
 
 ---
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffyongit&label=Profile%20views&color=0e75b6&style=flat" alt="luffyongit" /> </p>
 
